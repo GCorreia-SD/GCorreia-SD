@@ -39,8 +39,8 @@
 ## Portfolio:
 - [Computer Vision Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
 - [Computer Vision for Mobile Robotics](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
-<!--- - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
+- [Machine Learning Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
+<!--- - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Client Registry System](https://github.com/VariableBee/Cartorio) -->
 
 <!-- GIF -->
