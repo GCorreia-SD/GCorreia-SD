@@ -13,7 +13,7 @@
   
   * 📓 I'm currently studying Electrical Engineering at the Federal University of Bahia (UFBA).
     
-  * 💻 I'm a researcher in the field of photovoltaic inverters and electric cars! I'm also a Clinical Engineering intern at the Sarah Network of Rehabilitation Hospitals.
+  * 💻 I'm a researcher in the field of Photovoltaic Inverters and Electric Cars! I'm also a Clinical Engineering intern at the Sarah Network of Rehabilitation Hospitals.
 </p>
 
 <!-- TechStack -->
