@@ -16,7 +16,7 @@
     
   * 💻 I'm a researcher in the field of Photovoltaic Inverters and Electric Cars! I'm also a Clinical Engineering intern at the Ford Motor Company.
 
-  * 🤖 I also love researching and learning more about AI/ML and Mobile Robotics.
+  * 🤖 I also love researching and learning more about AI/ML, Embedded Systems and Mobile Robotics.
 </p>
 
 <!-- TechStack -->
