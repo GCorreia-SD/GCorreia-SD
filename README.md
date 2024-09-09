@@ -43,8 +43,8 @@
 - [Computer Vision Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
 - [Computer Vision for Mobile Robotics](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
 - [Machine Learning Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
-<!--- - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio) -->
+- [Conveyor Belt Repository](https://github.com/GCorreia-SD/ConveyorBelt-Repository/tree/main)
+
 
 <!-- GIF -->
 <p align="left">
