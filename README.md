@@ -40,11 +40,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Computer Vision Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
-- [Computer Vision for Mobile Robotics](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
-- [Machine Learning Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
-- [Conveyor Belt Repository](https://github.com/GCorreia-SD/ConveyorBelt-Repository/tree/main)
-- [Robotic Base Control Project with Omnidirectional Motors with FreeRTOS Repository](https://github.com/GCorreia-SD/OmnidirectionalMotors-Repository/tree/main)
+- [Computer Vision - Python Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
+- [Computer Vision for Mobile Robotics - Python Repository](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
+- [Machine Learning - Python Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
+- [Conveyor Belt - C++ Repository](https://github.com/GCorreia-SD/ConveyorBelt-Repository/tree/main)
+- [Robotic Base Control Project with Omnidirectional Motors with FreeRTOS - C Repository](https://github.com/GCorreia-SD/OmnidirectionalMotors-Repository/tree/main)
 
 <!-- GIF -->
 <p align="left">
