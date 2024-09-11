@@ -59,9 +59,10 @@ C and C++ Repository
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GCorreia-sd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GCorreia-sd&theme=dark)
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GCorreia-sd&theme=dark&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GCorreia-sd&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GCorreia-sd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/> 
 
