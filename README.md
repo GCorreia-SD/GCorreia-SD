@@ -39,10 +39,13 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
 <!-- Portfolio -->
-## Portfolio:
+## 🗃️ Portfolio:
+# Python Repository
 - [Computer Vision - Python Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
 - [Computer Vision for Mobile Robotics - Python Repository](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
 - [Machine Learning - Python Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
+
+# C and C++ Repository
 - [Conveyor Belt - C++ Repository](https://github.com/GCorreia-SD/ConveyorBelt-Repository/tree/main)
 - [Robotic Base Control Project with Omnidirectional Motors with FreeRTOS - C Repository](https://github.com/GCorreia-SD/OmnidirectionalMotors-Repository/tree/main)
 
