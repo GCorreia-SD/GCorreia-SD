@@ -49,6 +49,7 @@ Python Repository
 C and C++ Repository
 - [Conveyor Belt - C++ Repository](https://github.com/GCorreia-SD/ConveyorBelt-Repository/tree/main)
 - [Robotic Base Control Project with Omnidirectional Motors with FreeRTOS - C Repository](https://github.com/GCorreia-SD/OmnidirectionalMotors-Repository/tree/main)
+- [Numeric Akinator - C++ Repository](https://github.com/GCorreia-SD/NumericAkinator-Repository/tree/main)
 
 <!-- GIF -->
 <p align="left">
