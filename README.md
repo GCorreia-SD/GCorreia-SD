@@ -44,6 +44,7 @@ Python Repository
 - [Computer Vision - Python Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
 - [Computer Vision for Mobile Robotics - Python Repository](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
 - [Machine Learning - Python Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
+</p>
 
 C and C++ Repository
 - [Conveyor Belt - C++ Repository](https://github.com/GCorreia-SD/ConveyorBelt-Repository/tree/main)
