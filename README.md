@@ -44,7 +44,7 @@
 - [Computer Vision for Mobile Robotics](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
 - [Machine Learning Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
 - [Conveyor Belt Repository](https://github.com/GCorreia-SD/ConveyorBelt-Repository/tree/main)
-
+- [OmnidirectionalMotors](https://github.com/GCorreia-SD/OmnidirectionalMotors-Repository/tree/main)
 
 <!-- GIF -->
 <p align="left">
