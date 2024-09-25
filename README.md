@@ -41,9 +41,9 @@
 <!-- Portfolio -->
 ## 🗃️ Portfolio:
 Python Repository
+- [Machine Learning - Python Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
 - [Computer Vision - Python Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
 - [Computer Vision for Mobile Robotics - Python Repository](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
-- [Machine Learning - Python Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
 </p>
 
 C and C++ Repository
