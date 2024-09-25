@@ -14,7 +14,7 @@
   
   * 📓 I'm currently studying Electrical Engineering at the Federal University of Bahia (UFBA).
     
-  * 💻 I'm a researcher in the field of Photovoltaic Inverters and Electric Cars! I'm also a Researcher at the Ford Motor Company.
+  * 💻 I'm a researcher in the field of Photovoltaic Inverters and Electric Cars! I'm also a Researcher (in Research, Development and Innovation RD&I) at the Ford Motor Company.
 
   * 🤖 I also love researching and learning more about AI/ML, Embedded Systems and Mobile Robotics.
 </p>
