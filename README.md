@@ -41,9 +41,12 @@
 <!-- Portfolio -->
 ## 🗃️ Portfolio:
 Python Repository
+- [Attribute Extraction - Python Repository](https://github.com/GCorreia-SD/AttributeExtraction-Repository)
+- [Deep Learning - Python Repository](https://github.com/GCorreia-SD/DeepLearning-Repository)
 - [Machine Learning - Python Repository](https://github.com/GCorreia-SD/MachineLearning-Repository/tree/main)
 - [Computer Vision - Python Repository](https://github.com/GCorreia-SD/ComputerVision-Repository)
 - [Computer Vision for Mobile Robotics - Python Repository](https://github.com/GCorreia-SD/HuskyComputerVision-Repository/tree/videos)
+
 </p>
 
 C and C++ Repository
